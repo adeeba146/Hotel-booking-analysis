@@ -65,11 +65,6 @@ The dataset includes:
 
 ---
 
-## Visualizations
-
-(Add screenshots of your charts here)
-
----
 
 ## Business Impact
 
